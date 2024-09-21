@@ -7,11 +7,11 @@ Sou o Daniel, estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro
 **Habilidades:**
 
 * **Linguagens:** JavaScript, React Native, PHP
-* **Ferramentas:** [Adicione aqui outras ferramentas que você utiliza, como Git, Node.js, etc.]
+* **Ferramentas:** Git
 
 **Projetos:**
 
-* **Sports Nutrition:** [Descreva brevemente o projeto, seus objetivos e tecnologias utilizadas]
+* **Sports Nutrition:** Um projeto onde você poderá consultar especialistas em atividades físicas e nutrição para formar o melhor treino e dieta.
 
 **Objetivos:**
 
@@ -21,7 +21,7 @@ Sou o Daniel, estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro
 
 **Contato:**
 
-* **LinkedIn:** [Seu perfil no LinkedIn]
-* **E-mail:** [Seu e-mail]
+* **LinkedIn:** Em desenvolvimento
+* **E-mail:** danibushin@gmail.com
 
 **Local:** Registro, SP
