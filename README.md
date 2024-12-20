@@ -22,6 +22,6 @@ Sou o Daniel, estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro
 **Contato:**
 
 * **LinkedIn:** Em desenvolvimento
-* **E-mail:** danibushin@gmail.com
+* **E-mail:** dev-DanielSilva@outlook.com
 
 **Local:** Registro, SP
