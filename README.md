@@ -6,8 +6,8 @@ Sou o Daniel, estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro
 
 **Habilidades:**
 
-* **Linguagens:** JavaScript, React Native, PHP
-* **Ferramentas:** Git
+* **Linguagens:** JavaScript, PHP, Python
+* **Ferramentas:** Git, Flask, React Native
 
 **Projetos:**
 
