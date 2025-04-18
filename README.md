@@ -2,7 +2,7 @@
 
 **Sobre mim:**
 
-Sou o Daniel, estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro**. Minha paixão por tecnologia me impulsiona a criar soluções inovadoras e eficientes. Atualmente, estou focado em **Javascript**, **React Native** e **PHP**, e meu objetivo é me tornar um **engenheiro de software**.
+Sou o Daniel, estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro**. Minha paixão por tecnologia me impulsiona a criar soluções inovadoras e eficientes. Atualmente, estou focado em **Javascript**, **Python** e **PHP**, e meu objetivo é me tornar um **engenheiro da computação**.
 
 **Habilidades:**
 
