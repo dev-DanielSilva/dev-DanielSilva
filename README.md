@@ -26,3 +26,5 @@ Sou o Daniel, estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro
 * **E-mail:** dev-DanielSilva@outlook.com
 
 **Local:** Registro, SP
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-DanielSilva)](https://github.com/dev-DanielSilva/github-readme-stats)
