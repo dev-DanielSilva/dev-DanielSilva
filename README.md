@@ -10,7 +10,7 @@
 
 Sou estudante de **Desenvolvimento de Sistemas** na **ETEC de Registro**.
 Apaixonado por tecnologia, busco criar soluções inovadoras e eficientes.
-Atualmente, concentro meus estudos em **JavaScript**, **Python** e **PHP**, com o objetivo de me tornar engenheiro de computação.
+Atualmente, concentro meus estudos em **JavaScript**, **Python** e **PHP**, com o objetivo de me tornar engenheiro da computação.
 
 ---
 
