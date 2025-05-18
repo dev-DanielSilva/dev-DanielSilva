@@ -27,7 +27,10 @@ Atualmente, concentro meus estudos em **JavaScript**, **Python** e **PHP**, com 
 </div>
 <br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-DanielSilva" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=default&layout=compact&langs_count=6&size_weight=0&count_weight=1&cache_seconds=1"
+    alt="Top Languages"
+  />
 </p>
 
 ---
