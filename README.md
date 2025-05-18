@@ -34,6 +34,7 @@ Atualmente, concentro meus estudos em **JavaScript** e **Python**, com o objetiv
 </p>
 
 
+
 ---
 
 ## Projetos em Destaque
