@@ -35,7 +35,7 @@ Atualmente, concentro meus estudos em **JavaScript**, **Python** e **PHP**, com 
 ## Projetos em Destaque
 
 * **Sports Nutrition:**
-  Sistema para consulta com especialistas em atividades físicas e nutrição, auxiliando na elaboração de treinos e dietas personalizadas.
+  Aplicação Web para consulta com especialistas em atividades físicas e nutrição, auxiliando na elaboração de treinos e dietas personalizadas.
 
 * **Voyage:**
   Aplicação web de turismo, com funcionalidades de cadastro e busca de viagens, hospedagens e usuários.
