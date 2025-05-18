@@ -25,9 +25,9 @@ Atualmente, concentro meus estudos em **JavaScript**, **Python** e **PHP**, com 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40" />
 </div>
-
+<br>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-DanielSilva&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-DanielSilva" alt="Top Languages" />
 </p>
 
 ---
