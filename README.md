@@ -39,18 +39,22 @@ Atualmente, concentro meus estudos em **JavaScript** e **Python**, com o objetiv
 
 ## Projetos em Destaque
 
-* **Sports Nutrition:**
-  Aplicação Web para consulta com especialistas em atividades físicas e nutrição, auxiliando na elaboração de treinos e dietas personalizadas.
+* **Nuvio**: Sistema de Previsão do Tempo que realiza o consumo e integração de uma API climática global para fornecer dados em tempo real. Tecnologias: Python (Flask), HTML e CSS.
 
-* **Voyage:**
-  Aplicação web de turismo, com funcionalidades de cadastro e busca de viagens, hospedagens e usuários.
+* **Red Line**: Simulação de Software Empresarial para o setor petrolífero. O projeto foi desenvolvido para funcionar nas plataformas Desktop e Mobile, demonstrando gestão de ativos e serviços operacionais. Tecnologias: C# (Desktop) e JavaScript (React Native - Mobile).
+
+* **SPARQ**: TCC que visa a Prevenção e Alerta de Queimadas. O sistema processa dados de sensores geoclimáticos para gerar previsões e alertas em tempo real. Tecnologias: Python (Flask), HTML, CSS e JavaScript.
+
+* **Iron Fit**: Simulação completa de uma plataforma de e-commerce para produtos fitness (academia). Focado em demonstrar o ciclo de venda, catálogo e lógica de carrinho. Tecnologias: PHP, HTML e CSS.
 
 ---
 
 ## Objetivos Profissionais
 
-* Desenvolver competências em aplicações web e mobile.
+* Desenvolver competências em aplicações web e mobile, além de amplicar meus conhecimentos no Setor Tecnológico como um todo.
+
 * Contribuir para projetos open‐source de relevância.
+ 
 * Ingressar em estágio ou posição efetiva na área de desenvolvimento de software.
 
 ---
@@ -66,6 +70,9 @@ Atualmente, concentro meus estudos em **JavaScript** e **Python**, com o objetiv
   </a>
   <a href="https://instagram.com/bymidna" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://linktr.ee/dev.DanielSilva" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
   </a>
 </div>
 
