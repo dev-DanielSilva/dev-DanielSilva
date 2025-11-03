@@ -30,7 +30,7 @@ Atualmente, concentro meus estudos em **JavaScript** e **Python**, com o objetiv
 <br>
 <p align="center">
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=tokyonight&langs_count=16&count_weight=1&size_weight=0&hide=html,css,shell&timestamp=1762185607"
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=tokyonight&langs_count=16&count_weight=1&size_weight=0&hide=html,css,shell&layout=compact&timestamp=1762185609"
   alt="linguagens mais usadas"
 />
 </p>
