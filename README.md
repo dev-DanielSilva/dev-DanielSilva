@@ -29,10 +29,10 @@ Atualmente, concentro meus estudos em **JavaScript** e **Python**, com o objetiv
 </div>
 <br>
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=nord&layout=compact&langs_count=6&count_weight=1&size_weight=0&hide=html,css"
-    alt="Linguagens mais usadas (por repositórios, sem HTML/CSS)"
-  />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=tokyonight&layout=compact&langs_count=8&count_weight=1&size_weight=0&hide=css"
+  alt="linguagens mais usadas"
+/>
 </p>
 
 ---
