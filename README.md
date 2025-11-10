@@ -68,7 +68,7 @@ Atualmente, concentro meus estudos em **JavaScript** e **Python**, com o objetiv
   <a href="https://www.linkedin.com/in/dev-danielsilva/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://instagram.com/bymidna" target="_blank">
+  <a href="https://instagram.com/dev_danielsilva" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://linktr.ee/dev.DanielSilva" target="_blank">
