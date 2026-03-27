@@ -30,9 +30,9 @@ Atualmente, concentro meus estudos em **C** e **Python**, com o objetivo de me t
 </div>
 <br>
 <p align="center">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=tokyonight&langs_count=16&count_weight=1&size_weight=0&hide=html,css,shell&layout=compact&timestamp=1762185609"
-  alt="linguagens mais usadas"
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=tokyonight&langs_count=10&hide=html,css,shell&layout=donut&timestamp=1762185609" 
+  alt="Linguagens mais usadas" 
 />
 </p>
 
