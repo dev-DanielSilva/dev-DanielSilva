@@ -1,82 +1,85 @@
-<h1 align="center">Daniel Freire da Silva</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=nord" alt="Estatísticas do GitHub" />
-</p>
-
----
-
-## Sobre mim
-
-Sou estudante de **Engenharia da Computação** na **USP de São  Carlos** e técnico em **Desenvolvimento de Sistemas** formado pela **ETEC de Registro**.
-Apaixonado por tecnologia, busco criar soluções inovadoras e eficientes.
-Atualmente, concentro meus estudos em **C** e **Python**, com o objetivo de me tornar engenheiro da computação.
-
----
-
-## Tecnologias e Linguagens
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="30" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="Flask" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="CSS3" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" height="30" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="40" width="40" />
-</div>
-<br>
-<p align="center">
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-DanielSilva&theme=tokyonight&langs_count=10&hide=html,css,shell&layout=donut&timestamp=1762185609" 
-  alt="Linguagens mais usadas" 
-/>
-</p>
+  <h1>Daniel Freire da Silva 💻</h1>
+  <p align="center">
+    <b>🎓 Engenheiro da Computação em formação pela USP São Carlos</b><br>
+    <i>🚀 Desenvolvendo soluções eficientes entre o baixo nível e a web</i>
+  </p>
 
----
-
-## Projetos em Destaque
-
-* **Nuvio**: Sistema de Previsão do Tempo que realiza o consumo e integração de uma API climática global para fornecer dados em tempo real. Tecnologias: Python (Flask), HTML e CSS.
-
-* **Red Line**: Simulação de Software Empresarial para o setor petrolífero. O projeto foi desenvolvido para funcionar nas plataformas Desktop e Mobile, demonstrando gestão de ativos e serviços operacionais. Tecnologias: C# (Desktop) e JavaScript (React Native - Mobile).
-
-* **SPARQ**: TCC que visa a Prevenção e Alerta de Queimadas. O sistema processa dados de sensores geoclimáticos para gerar previsões e alertas em tempo real. Tecnologias: Python (Flask), HTML, CSS e JavaScript.
-
-* **Iron Fit**: Simulação completa de uma plataforma de e-commerce para produtos fitness (academia). Focado em demonstrar o ciclo de venda, catálogo e lógica de carrinho. Tecnologias: PHP, HTML e CSS.
-
----
-
-## Objetivos Profissionais
-
-* Desenvolver competências em aplicações web e mobile, além de amplicar meus conhecimentos no Setor Tecnológico como um todo.
-
-* Contribuir para projetos open‐source de relevância.
- 
-* Ingressar em estágio ou posição efetiva na área de desenvolvimento de software.
-
----
-
-## Contato
-
-<div align="center">
-  <a href = "mailto:dev-DanielSilva@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/dev-danielsilva/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/dev_danielsilva" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linktr.ee/dev.DanielSilva" target="_blank">
-    <img src="https://img.shields.io/badge/Linktree-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree">
-  </a>
+  <p align="center">
+    <img src="https://img.shields.io/badge/USP-São%20Carlos-597d9a?style=for-the-badge&logo=google-scholar&logoColor=white" />
+    <img src="https://img.shields.io/badge/📍-Registro--SP-red?style=for-the-badge" />
+  </p>
 </div>
 
 ---
 
-Registro, SP
+### 📖 Sobre Mim
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <p>
+        👋 Olá! Sou estudante de <b>Engenharia da Computação (EESC/ICMC - USP)</b> e Técnico em <b>Desenvolvimento de Sistemas</b>. 
+        <br><br>
+        ⚙️ Minha trajetória combina o rigor acadêmico da Engenharia com a prática do desenvolvimento de software, focado em transformar problemas complexos em código elegante, transitando entre <b>C</b>, <b>Python</b> e <b>C#</b>.
+      </p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg" width="100px" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+  <p><b>💻 Linguagens e Frameworks</b></p>
+  <img src="https://skillicons.dev/icons?i=c,cs,py,php,js,react,flask,mysql&theme=dark" />
+  
+  <br><br>
+
+  <p><b>🛠️ Ambiente e Workflow</b></p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,postman&theme=dark" />
+</div>
+
+---
+
+### 📊 Estatísticas e Engajamento
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" />
+</div>
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **☁️ Nuvio**: Integração de API climática global para previsão em tempo real. (`Python/Flask`)
+* **🔥 SPARQ**: Sistema de prevenção de queimadas com processamento de dados geoclimáticos. (`Python/Flask`)
+* **⛽ Red Line**: Software empresarial para o setor petrolífero. (`C#/React Native`)
+* **💪 Iron Fit**: Plataforma de e-commerce completa para o nicho fitness. (`PHP`)
+
+---
+
+### 📫 Vamos nos conectar?
+
+<div align="center">
+  <a href="mailto:dev-DanielSilva@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dev-danielsilva/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/dev_danielsilva">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/dev.DanielSilva">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=linktree&logoColor=white" />
+  </a>
+</div>
+
+---
+<p align="center"><i>"A simplicidade é o último grau da sofisticação."</i></p>
+<p align="center">📍 São Carlos, SP</p>
