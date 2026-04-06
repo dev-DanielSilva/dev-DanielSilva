@@ -59,7 +59,7 @@
 * **☁️ Nuvio**: Integração de API climática global para previsão em tempo real. (`Python/Flask`)
 * **🔥 SPARQ**: Sistema de prevenção de queimadas com processamento de dados geoclimáticos. (`Python/Flask`)
 * **⛽ Red Line**: Software empresarial para o setor petrolífero. (`C#/React Native`)
-* **💪 Iron Fit**: Plataforma de e-commerce completa para o nicho fitness. (`PHP`)
+* **💪 Iron Fit**: Plataforma que simula a interação com o carrinho de um e-commerce. (`PHP`)
 
 ---
 
