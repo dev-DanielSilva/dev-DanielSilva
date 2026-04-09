@@ -17,15 +17,12 @@
 
 <table align="center">
   <tr>
-    <td width="60%">
+    <td width="100%">
       <p>
         👋 Olá! Sou estudante de <b>Engenharia da Computação (EESC/ICMC - USP)</b> e Técnico em <b>Desenvolvimento de Sistemas</b>. 
         <br><br>
         ⚙️ Minha trajetória combina o rigor acadêmico da Engenharia com a prática do desenvolvimento de software, focado em transformar problemas complexos em código elegante, transitando entre <b>C</b>, <b>Python</b> e <b>C#</b>.
       </p>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/code.svg" width="100px" />
     </td>
   </tr>
 </table>
@@ -49,7 +46,8 @@
 ### 📊 Estatísticas e Engajamento
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-DanielSilva&layout=compact&theme=nord&hide_border=true&hide=css" alt="linguagens mais usadas" />
 </div>
 
 ---
