@@ -21,7 +21,7 @@
       <p>
         👋 Olá! Sou estudante de <b>Engenharia da Computação (EESC/ICMC - USP)</b> e Técnico em <b>Desenvolvimento de Sistemas</b>. 
         <br><br>
-        ⚙️ Minha trajetória combina o rigor acadêmico da Engenharia com a prática do desenvolvimento de software, focado em transformar problemas complexos em código elegante, transitando entre <b>C</b>, <b>Python</b> e <b>C#</b>.
+        ⚙️ Minha trajetória como desenvolvedor começou há 3 anos e, desde então, venho consolidando uma base técnica sólida em linguagens como <b>C</b>, <b>Python</b> e <b>C#</b>. Atualmente, foco em unir o rigor acadêmico da Engenharia de Computação com a prática em projetos , sempre buscando soluções eficientes e escaláveis para problemas complexos. 
       </p>
     </td>
   </tr>
