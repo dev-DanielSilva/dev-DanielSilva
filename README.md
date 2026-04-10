@@ -7,7 +7,7 @@
 
   <p align="center">
     <img src="https://img.shields.io/badge/USP-São%20Carlos-597d9a?style=for-the-badge&logo=google-scholar&logoColor=white" />
-    <img src="https://img.shields.io/badge/📍-Registro--SP-red?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/📍-São Carlos--SP-red?style=for-the-badge" />
   </p>
 </div>
 
