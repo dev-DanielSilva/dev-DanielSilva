@@ -23,7 +23,7 @@
         <br><br>
         ⚙️ Com 3 anos de experiência prática, transito entre o rigor do <b>C</b> e a agilidade do <b>Python</b>. Sou apaixonado por arquitetura de sistemas e por transformar lógica complexa em software eficiente. Atualmente, busco aplicar fundamentos de engenharia para criar soluções escaláveis e integradas.
       </p>
-    </td>
+    </tr>
   </tr>
 </table>
 
@@ -32,10 +32,20 @@
 ### 🛠️ Tecnologias e Ferramentas
 
 <div align="center">
-  <p><b>💻 Linguagens e Frameworks</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,js,react,flask,mysql&theme=dark" />
+  <p><b>💻 Linguagens</b></p>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,js&theme=dark" />
   
-  <br><br>
+  <br>
+
+  <p><b>⚛️ Frameworks e Bibliotecas</b></p>
+  <img src="https://skillicons.dev/icons?i=react,flask&theme=dark" />
+  
+  <br>
+
+  <p><b>🗄️ Banco de Dados</b></p>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+  
+  <br>
 
   <p><b>🛠️ Ambiente e Workflow</b></p>
   <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,postman&theme=dark" />
