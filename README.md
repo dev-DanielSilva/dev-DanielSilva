@@ -38,7 +38,7 @@
   <br><br>
 
   <p><b>🛠️ Ambiente e Workflow</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,visualstudio,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,postman&theme=dark" />
 </div>
 
 ---
