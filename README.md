@@ -33,7 +33,7 @@
 
 <div align="center">
   <p><b>💻 Linguagens</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,py,php,js&theme=dark" />
   
   <br>
 
@@ -48,7 +48,7 @@
   <br>
 
   <p><b>🛠️ Ambiente e Workflow</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio&theme=dark" />
 </div>
 
 ---
