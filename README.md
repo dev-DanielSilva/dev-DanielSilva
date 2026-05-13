@@ -33,7 +33,7 @@
 
 <div align="center">
   <p><b>💻 Linguagens</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cs,py,php,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,js&theme=dark" />
   
   <br>
 
