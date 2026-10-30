@@ -53,22 +53,12 @@
 
 ---
 
-### 🚀 Projetos em Destaque
-
-| Projeto | Descrição Técnica | Stack |
-| :--- | :--- | :--- |
-| **☁️ Nuvio** | Sistema de monitoramento climático global. | `Python` `Flask` |
-| **🔥 SPARQ** | Detecção de focos de incêndio via sensores IoT. | `Python` `IoT` |
-| **⛽ Red Line** | Simulação para gestão no setor de óleo e gás. | `C#` `React Native` |
-
----
-
 ### 📊 Estatísticas e Engajamento
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="estatísticas do github" />
   
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-DanielSilva&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,shell" />
+  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dev-DanielSilva&layout=compact&theme=tokyonight&hide_border=true&hide=css" alt="linguagens mais usadas" />
 </div>
 
 ---
