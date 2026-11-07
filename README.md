@@ -33,7 +33,7 @@
 
 <div align="center">
   <p><b>💻 Linguagens</b></p>
-  <img src="https://skillicons.dev/icons?i=c,cs,cpp,py,php,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,py,php,js&theme=dark" />
   
   <br>
 
@@ -48,7 +48,7 @@
   <br>
 
   <p><b>🛠️ Ambiente e Workflow</b></p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,ros,vscode,visualstudio&theme=dark" />
 </div>
 
 ---
@@ -56,9 +56,9 @@
 ### 📊 Estatísticas e Engajamento
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="estatísticas do github" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=dev-DanielSilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="estatísticas do github" />
   
-  <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dev-DanielSilva&layout=compact&theme=tokyonight&hide_border=true&hide=css" alt="linguagens mais usadas" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=dev-DanielSilva&layout=compact&theme=tokyonight&hide_border=true&hide=css,makefile,html&langs_count=4" alt="linguagens mais usadas" />
 </div>
 
 ---
